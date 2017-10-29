@@ -13,7 +13,9 @@ Share any post (can be some latest tech news,your story,etc)
 ```
 	git clone https://github.com/techmastermind/Share-a-Post.git
 ```
+
 #### Put your post in posts/
+
 ### Prerequisites
 
 - Text Editor
