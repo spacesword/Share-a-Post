@@ -1,0 +1,38 @@
+What is Single Thread?
+
+A single thread is basically a lightweight and the smallest unit of processing. Java uses threads by using a "Thread Class".
+
+There are two types of thread 
+– user thread and daemon thread (daemon threads are used when we want to clean the application and are used in the background).
+
+When an application first begins, user thread is created. Post that, we can create many user threads and daemon threads.
+
+What is Multithreading?
+
+Multithreading in java is a process of executing two or more threads simultaneously to maximum utilization of CPU.
+Multithreaded applications are where two or more threads run concurrently; hence it is also known as Concurrency in Java.
+This multitasking is done, when multiple processes share common resources like CPU, memory, etc.
+Each thread runs parallel to each other. Threads don't allocate separate memory area; hence it saves memory.
+Also, context switching between threads takes less time.
+
+
+
+What is the difference between threading and multithreading?
+
+Multithreaded Programming
+
+1.In this type of programming multiple threads run at the same time.
+2.Multi threaded model doesn’t use event loop with polling.
+3.CPU time is never wasted.
+4.Idle time is minimum.
+5.It results in more efficient programs.
+6.When one thread is paused due to some reason, other threads run as normal.
+
+Single Threaded Programming
+
+1. In this type of programming a single thread runs at a time.
+2. Single threaded model uses a process event loop with polling.
+3. CPU time is wasted.
+4. Idle time is more.
+5. It results in less efficient programs.
+6. When one thread is paused, the system waits until this thread is resumed.
