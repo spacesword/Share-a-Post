@@ -11,7 +11,7 @@ Share any post (can be some latest tech news,your story,etc)
 
 - Cloning to local system.
 ```
-	git clone https://github.com/techmastermind/Share-a-Post.git
+	git clone https://github.com/spzcesword/Share-a-Post.git
 ```
 
 #### Put your post in posts/
@@ -27,4 +27,4 @@ Share any post (can be some latest tech news,your story,etc)
 
 ## Authors
 
-* **techmastermind** - *Share-a-Post* - [techmastermind](https://github.com/techmastermind)
+* **spacesword** - *Share-a-Post* - [spacesword](https://github.com/spacesword)
