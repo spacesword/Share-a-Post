@@ -1,6 +1,6 @@
 
 ----
-> As the Hacktoberfest Event is going to end soon so.This is for all the users who want to complete their pending pull request faster.
+> As the Hacktoberfest 2019 Event is going to end soon so.This is for all the users who want to complete their pending pull request faster.
 ## I Will be accepting all the pull request.
 
 # Share-a-Post
@@ -28,3 +28,5 @@ Share any post (can be some latest tech news,your story,etc)
 ## Authors
 
 * **spacesword** - *Share-a-Post* - [spacesword](https://github.com/spacesword)
+
+Articles should be genuine. Look at the example before making a pull request
